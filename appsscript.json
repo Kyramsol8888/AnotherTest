@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/Kiev",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "FacebookBuyingContentTools",
+        "version": "0",
+        "libraryId": "1YfxFocnP-UUAZm4xpaU0UGn3xeYXX93tfmnhgV62Cbk8g49NV0pZTA9m",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
